@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost'; // 資料庫主機
-$db   = 'knowledge_grap'; // 資料庫名稱
-$user = 'root'; // 使用者帳號
-$pass = ''; // 使用者密碼
+$host = '172.105.225.93'; // 資料庫主機
+$db   = 'gxuntmkdpm'; // 資料庫名稱
+$user = 'gxuntmkdpm'; // 使用者帳號
+$pass = '7nHEcBT9Rf'; // 使用者密碼
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
